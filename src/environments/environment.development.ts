@@ -1,11 +1,11 @@
 export const environment = {
     production: false,
     firebaseConfig: {
-        apiKey: "AIzaSyB2myIWCVkL6SNsCPrrjuF9EQB8-LYiC-4",
-        authDomain: "librosdd-fc966.firebaseapp.com",
-        projectId: "librosdd-fc966",
-        storageBucket: "librosdd-fc966.appspot.com",
-        messagingSenderId: "895639690607",
-        appId: "1:895639690607:web:a817197f614265c870dc9a"
+        apiKey: "AIzaSyBYzHjne1aecw9X0BKnxd8eBlEP1627898",
+        authDomain: "librosds02sv.firebaseapp.com",
+        projectId: "librosds02sv",
+        storageBucket: "librosds02sv.appspot.com",
+        messagingSenderId: "659753242239",
+        appId: "1:659753242239:web:bfc6487666d89f9ce4394a"
     }
 };
